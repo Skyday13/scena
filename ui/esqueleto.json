@@ -1,0 +1,338 @@
+{
+  "frontal": [
+    {
+      "nome": "torso_frontal_para_cabeça_frontal",
+      "ponto_inicial": {
+        "x": 212,
+        "y": 301
+      },
+      "ponto_final": {
+        "x": 212,
+        "y": 145
+      }
+    },
+    {
+      "nome": "torso_frontal_para_braço_direito_frontal",
+      "ponto_inicial": {
+        "x": 212,
+        "y": 301
+      },
+      "ponto_final": {
+        "x": 159,
+        "y": 237
+      }
+    },
+    {
+      "nome": "braço_direito_frontal_para_antebraço_direito_frontal",
+      "ponto_inicial": {
+        "x": 159,
+        "y": 237
+      },
+      "ponto_final": {
+        "x": 135,
+        "y": 360
+      }
+    },
+    {
+      "nome": "antebraço_direito_frontal_para_mão_direita_frontal",
+      "ponto_inicial": {
+        "x": 135,
+        "y": 360
+      },
+      "ponto_final": {
+        "x": 128,
+        "y": 347
+      }
+    },
+    {
+      "nome": "torso_frontal_para_braço_esquerdo_frontal",
+      "ponto_inicial": {
+        "x": 212,
+        "y": 301
+      },
+      "ponto_final": {
+        "x": 273,
+        "y": 277
+      }
+    },
+    {
+      "nome": "braço_esquerdo_frontal_para_antebraço_esquerdo_frontal",
+      "ponto_inicial": {
+        "x": 273,
+        "y": 277
+      },
+      "ponto_final": {
+        "x": 288,
+        "y": 359
+      }
+    },
+    {
+      "nome": "antebraço_esquerdo_frontal_para_mão_esquerda_frontal",
+      "ponto_inicial": {
+        "x": 288,
+        "y": 359
+      },
+      "ponto_final": {
+        "x": 299,
+        "y": 443
+      }
+    },
+    {
+      "nome": "torso_frontal_para_coxa_direita_frontal",
+      "ponto_inicial": {
+        "x": 212,
+        "y": 301
+      },
+      "ponto_final": {
+        "x": 179,
+        "y": 467
+      }
+    },
+    {
+      "nome": "coxa_direita_frontal_para_perna_direita_frontal",
+      "ponto_inicial": {
+        "x": 179,
+        "y": 467
+      },
+      "ponto_final": {
+        "x": 184,
+        "y": 639
+      }
+    },
+    {
+      "nome": "perna_direita_frontal_para_pé_direito_frontal",
+      "ponto_inicial": {
+        "x": 184,
+        "y": 639
+      },
+      "ponto_final": {
+        "x": 189,
+        "y": 737
+      }
+    },
+    {
+      "nome": "torso_frontal_para_coxa_esquerda_frontal",
+      "ponto_inicial": {
+        "x": 212,
+        "y": 301
+      },
+      "ponto_final": {
+        "x": 245,
+        "y": 467
+      }
+    },
+    {
+      "nome": "coxa_esquerda_frontal_para_perna_esquerda_frontal",
+      "ponto_inicial": {
+        "x": 245,
+        "y": 467
+      },
+      "ponto_final": {
+        "x": 239,
+        "y": 638
+      }
+    },
+    {
+      "nome": "perna_esquerda_frontal_para_pé_esquerdo_frontal",
+      "ponto_inicial": {
+        "x": 239,
+        "y": 638
+      },
+      "ponto_final": {
+        "x": 235,
+        "y": 736
+      }
+    }
+  ],
+  "costas": [
+    {
+      "nome": "torso_costas_para_cabeça_costas",
+      "ponto_inicial": {
+        "x": 1487,
+        "y": 296
+      },
+      "ponto_final": {
+        "x": 1487,
+        "y": 142
+      }
+    },
+    {
+      "nome": "torso_costas_para_braço_direito_costas",
+      "ponto_inicial": {
+        "x": 1487,
+        "y": 296
+      },
+      "ponto_final": {
+        "x": 1422,
+        "y": 288
+      }
+    },
+    {
+      "nome": "braço_direito_costas_para_antebraço_direito_costas",
+      "ponto_inicial": {
+        "x": 1422,
+        "y": 288
+      },
+      "ponto_final": {
+        "x": 1409,
+        "y": 359
+      }
+    },
+    {
+      "nome": "antebraço_direito_costas_para_mão_direita_costas",
+      "ponto_inicial": {
+        "x": 1409,
+        "y": 359
+      },
+      "ponto_final": {
+        "x": 1398,
+        "y": 438
+      }
+    },
+    {
+      "nome": "torso_costas_para_braço_esquerdo_costas",
+      "ponto_inicial": {
+        "x": 1487,
+        "y": 296
+      },
+      "ponto_final": {
+        "x": 1551,
+        "y": 291
+      }
+    },
+    {
+      "nome": "braço_esquerdo_costas_para_antebraço_esquerdo_costas",
+      "ponto_inicial": {
+        "x": 1551,
+        "y": 291
+      },
+      "ponto_final": {
+        "x": 1565,
+        "y": 358
+      }
+    },
+    {
+      "nome": "antebraço_esquerdo_costas_para_mão_esquerda_costas",
+      "ponto_inicial": {
+        "x": 1565,
+        "y": 358
+      },
+      "ponto_final": {
+        "x": 1575,
+        "y": 437
+      }
+    },
+    {
+      "nome": "torso_costas_para_coxa_direita_costas",
+      "ponto_inicial": {
+        "x": 1487,
+        "y": 296
+      },
+      "ponto_final": {
+        "x": 1518,
+        "y": 449
+      }
+    },
+    {
+      "nome": "coxa_direita_costas_para_perna_direita_costas",
+      "ponto_inicial": {
+        "x": 1518,
+        "y": 449
+      },
+      "ponto_final": {
+        "x": 1514,
+        "y": 614
+      }
+    },
+    {
+      "nome": "perna_direita_costas_para_pé_direito_costas",
+      "ponto_inicial": {
+        "x": 1514,
+        "y": 614
+      },
+      "ponto_final": {
+        "x": 1509,
+        "y": 725
+      }
+    },
+    {
+      "nome": "torso_costas_para_coxa_esquerda_costas",
+      "ponto_inicial": {
+        "x": 1487,
+        "y": 296
+      },
+      "ponto_final": {
+        "x": 1456,
+        "y": 450
+      }
+    },
+    {
+      "nome": "coxa_esquerda_costas_para_perna_esquerda_costas",
+      "ponto_inicial": {
+        "x": 1456,
+        "y": 450
+      },
+      "ponto_final": {
+        "x": 1459,
+        "y": 615
+      }
+    },
+    {
+      "nome": "perna_esquerda_costas_para_pé_esquerto_costas",
+      "ponto_inicial": {
+        "x": 1459,
+        "y": 615
+      },
+      "ponto_final": {
+        "x": 1464,
+        "y": 725
+      }
+    }
+  ],
+  "lado": [
+    {
+      "nome": "torso_lado_para_cabeça_lado",
+      "ponto_inicial": {
+        "x": 1040,
+        "y": 299
+      },
+      "ponto_final": {
+        "x": 1039,
+        "y": 144
+      }
+    },
+    {
+      "nome": "torso_lado_para_coxa_lado",
+      "ponto_inicial": {
+        "x": 1040,
+        "y": 299
+      },
+      "ponto_final": {
+        "x": 1055,
+        "y": 455
+      }
+    },
+    {
+      "nome": "coxa_lado_para_perna_lado",
+      "ponto_inicial": {
+        "x": 1055,
+        "y": 455
+      },
+      "ponto_final": {
+        "x": 1077,
+        "y": 622
+      }
+    },
+    {
+      "nome": "perna_lado_para_pé_lado",
+      "ponto_inicial": {
+        "x": 1077,
+        "y": 622
+      },
+      "ponto_final": {
+        "x": 1087,
+        "y": 731
+      }
+    }
+  ]
+}
